@@ -1,0 +1,11 @@
+F:\ITI\C#\DBForm\DBForm\bin\Debug\DBForm.exe.config
+F:\ITI\C#\DBForm\DBForm\bin\Debug\DBForm.exe
+F:\ITI\C#\DBForm\DBForm\bin\Debug\DBForm.pdb
+F:\ITI\C#\DBForm\DBForm\obj\Debug\DBForm.csproj.AssemblyReference.cache
+F:\ITI\C#\DBForm\DBForm\obj\Debug\DBForm.csproj.SuggestedBindingRedirects.cache
+F:\ITI\C#\DBForm\DBForm\obj\Debug\DBForm.Form1.resources
+F:\ITI\C#\DBForm\DBForm\obj\Debug\DBForm.Properties.Resources.resources
+F:\ITI\C#\DBForm\DBForm\obj\Debug\DBForm.csproj.GenerateResource.cache
+F:\ITI\C#\DBForm\DBForm\obj\Debug\DBForm.csproj.CoreCompileInputs.cache
+F:\ITI\C#\DBForm\DBForm\obj\Debug\DBForm.exe
+F:\ITI\C#\DBForm\DBForm\obj\Debug\DBForm.pdb
